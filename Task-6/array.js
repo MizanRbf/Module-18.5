@@ -28,7 +28,8 @@ console.log(numbers);
 // includes
 console.log(numbers.includes(57));
 
-// index
+// indexOf
 console.log(numbers.indexOf(64));
 
+// isArray
 console.log(Array.isArray(numbers));
